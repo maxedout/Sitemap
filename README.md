@@ -1,5 +1,5 @@
 Atwix Sitemap Extension
-=====================
+======================
 This extension is used to generate a multipage sitemaps by extending standard Magento Module (Mage_Sitemap) functionality.
 Details: http://www.atwix.com/magento/multipage-sitemap-xml-extension/
 
